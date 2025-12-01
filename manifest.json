@@ -1,0 +1,10 @@
+{
+	"id": "oss-picbed",
+	"name": "OSS Picbed",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.7",
+	"description": "Upload pictures to Aliyun OSS and delete remote files automatically",
+	"author": "yv1ing",
+	"authorUrl": "https://github.com/yv1ing",
+	"isDesktopOnly": false
+}
